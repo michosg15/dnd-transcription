@@ -45,8 +45,8 @@ Copy the example file:
 ```bash
 cp .env.example .env
 ```
-
 Open `.env` and paste your Hugging Face User Access Token (required for the diarization pipeline).
+
 4. **Run the script:**
 ```bash
 python transcribe_rpg.py "Your_Session_File.m4a"
