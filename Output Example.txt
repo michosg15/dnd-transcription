@@ -1,0 +1,8 @@
+[0.05s - 1.77s] SPEAKER_00: Zafirmować mój nowy miecz plus trzy.
+[2.13s - 11.02s] SPEAKER_01: Okej, widzę, że DMowi się mocno przysnęło, bo przyszedł teraz.
+[11.04s - 14.74s] SPEAKER_02: Ja chciałbym właśnie odkryć pokłady swojej niewyzwolonej mocy.
+[14.8s - 16.16s] SPEAKER_01: Okej, podoba mi się to.
+[16.2s - 19.8s] SPEAKER_01: To opowiadaj, co chciałbyś zrobić.
+[19.86s - 21.04s] SPEAKER_02: Chciałbym...
+[24.13s - 50.28s] SPEAKER_02: Chciałbym przede wszystkim skupić się na autorefleksji mojej relacji z moim patronem i przekazać mu, że już wiem, że we mnie tkwiło złe przekonanie i tak naprawdę zamiast być tym, który prowadzi, pozwolić dać się prowadzić.
+[52.96s - 61.73s] SPEAKER_01: Ale mówisz o tym, że dajesz się prowadzić przez innych, czy przez patrona, czy... Przez patrona.
